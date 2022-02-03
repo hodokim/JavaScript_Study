@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "echo \"Hello World\""
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
